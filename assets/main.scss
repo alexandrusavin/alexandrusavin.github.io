@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Load Atkinson Hyperlegible from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Apply it everywhere
+body,
+.site-title,
+.site-nav,
+h1, h2, h3, h4, h5, h6,
+button, input, select, textarea {
+  font-family: "Atkinson Hyperlegible Next", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, sans-serif;
+}
+
+h3 {
+  margin-bottom: 5px;
+  font-size: 1.4em;
+}
+
+h2 {
+  margin-bottom: 5px;
+  font-size: 1.6em;
+}
+
+code, pre, tt {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.site-header {
+  border-top-width: 3px;
+  min-height: 30px 
+}

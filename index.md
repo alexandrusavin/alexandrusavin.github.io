@@ -19,7 +19,7 @@ I work best in environments where engineering decisions carry real product weigh
 
 Founding technical team member at an early-stage AI startup. Responsibilities span architecture, hiring, and active product development on LLM-powered systems.
 
-- Migrated long-running agent orchestrations to **Temporal** to ensure durable, fault-tolerant execution of AI pipelines
+- Migrated long-running agent orchestrations to Temporal to ensure durable, fault-tolerant execution of AI pipelines
 - Designed a multi-phase evaluation system (Langfuse-based) covering everything from low-level application prompts to custom user Agent instructions
 - Designed and implemented a manifest-based ingestion protocol for fault-tolerant, large-scale cold-start data imports
 - Established the high-level target architecture post-MVP, enabling the team to scale without accruing structural debt
@@ -117,19 +117,6 @@ Freelance Software Developer, Heinen & Hopman, AltFactor (Romanian Space Agency 
 
 **Stack:** PHP, Drupal, MySQL
 
----
-
-## Skills
-
-| Area | Technologies |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python, PHP |
-| **Backend** | Node.js, Django, FastAPI, GraphQL, REST, OpenID Connect |
-| **Cloud & Infra** | AWS (Lambda, SQS, EC2), Azure, Terraform, GitHub Actions |
-| **Databases** | PostgreSQL, MongoDB, DynamoDB, Neo4j, MySQL |
-| **Architecture** | Serverless, microservices, event sourcing, monorepo, trunk-based development |
-| **AI / LLM** | Agent orchestration (Temporal), prompt evaluation (Langfuse), LLM pipelines |
-| **Process** | Hiring, technical roadmapping, agile, cross-functional collaboration |
 
 ---
 
